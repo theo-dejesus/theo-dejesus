@@ -1,20 +1,17 @@
 <h1 align="center">
-  👋 Hey, moi c'est TON NOM !
+  👋 Salut, moi c'est Théo !
 </h1>
 
 <h3 align="center">
-  🚀 Développeur passionné | Tech Enthusiast | Creative Thinker
+  🚀 Développeur passionné par la technologie et l'innovation
 </h3>
-
-👋 Salut, moi c'est Théo !
-🚀 Développeur passionné par la technologie et l'innovation
 
 Bienvenue sur mon GitHub ! Je suis passionné par le développement informatique, la création de projets et l'apprentissage de nouvelles technologies.
 
 Je partage ici mes projets, mes expérimentations et mon évolution dans le monde du développement.
 
 👨‍💻 À propos de moi
-🔭 Je travaille actuellement sur différents projets informatiques.
+🔭 Je suis en BTS CIEL option A.
 🌱 J'apprends constamment de nouvelles technologies.
 💡 J'aime résoudre des problèmes et créer des solutions innovantes.
 🎯 Mon objectif : développer mes compétences et réaliser des projets ambitieux.

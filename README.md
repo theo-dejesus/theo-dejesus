@@ -48,22 +48,6 @@ Outils & environnement
 
 De nouveaux projets arrivent prochainement !
 
-📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=BB86FC&text_color=FFFFFF&border_color=0D1117"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_color=0D1117"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&border=0D1117"/>
-
-</div>
-
 📬 Me contacter
 
 <div align="center">

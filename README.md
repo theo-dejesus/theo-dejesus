@@ -1,40 +1,20 @@
-<!--
-╔══════════════════════════════════════════════════╗
-║ THÉO - GITHUB PROFILE ║
-║ PREMIUM EDITION ║
-╚══════════════════════════════════════════════════╝
--->
+<!-- BANNER -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:090979,40:6A00F4,75:00C9FF,100:00F7FF&text=TH%C3%89O&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20BTS%20CIEL%20OPTION%20A&descSize=20&descAlignY=58&animation=fadeIn" />
 
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+DIGITAL+UNIVERSE;BTS+CIEL+OPTION+A+%F0%9F%92%BB;CODE.+CREATE.+INNOVATE.+%F0%9F%9A%80" />
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/TON_USERNAME">
 <img src="https://img.shields.io/badge/GITHUB-THÉO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <img src="https://img.shields.io/badge/STATUS-LEARNING-00D9FF?style=for-the-badge&logo=rocket&logoColor=white"/>
 <img src="https://img.shields.io/badge/PASSION-TECHNOLOGY-FF00FF?style=for-the-badge&logo=lightning&logoColor=white"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS"/>
-
 </div>
 
-<div align="center">
-
-👨‍💻 WHO AM I ?
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-
-</div>
-
+👨‍💻 ABOUT ME
 👋 Salut, moi c'est Théo !
 
 Bienvenue dans mon univers numérique !
@@ -44,14 +24,6 @@ Je suis passionné par le développement informatique, la création de projets e
 Actuellement étudiant en BTS CIEL option A, je développe mes compétences en informatique et je cherche constamment à repousser mes limites.
 
 💎 Quelques informations sur moi
-	
-👤 Prénom	Théo
-🎓 Formation	BTS CIEL option A
-💻 Passion	Développement informatique
-🧠 Mentalité	Learning & Improving
-🚀 Objectif	Développer des projets ambitieux
-🤝 Collaboration	Toujours ouvert aux opportunités
-⚡ Mes objectifs
 🔭 Je suis en BTS CIEL option A.
 🌱 J'apprends constamment de nouvelles technologies.
 💡 J'aime résoudre des problèmes et créer des solutions innovantes.
@@ -61,38 +33,28 @@ Actuellement étudiant en BTS CIEL option A, je développe mes compétences en i
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=MY+TOOLS+%26+TECHNOLOGIES;BUILDING+MY+SKILLS+EVERY+DAY" />
-
 💻 PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark"/>
 
 ⚙️ TOOLS & ENVIRONMENTS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
 
 </div>
 
 🚀 MY PROJECTS
+💻 Projets Python — Développement et expérimentations.
+🌐 Projets Web — Créations en HTML et CSS.
+🔧 Projets informatiques — Découvertes et expérimentations techniques.
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECTS-IN%20PROGRESS-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-🚀 Projet	📝 Description	⚡ Technologie
-💻 Projet 01	Mes futurs projets informatiques	Python
-🌐 Projet 02	Mes créations web	HTML / CSS
-🔧 Projet 03	Mes expérimentations techniques	Linux
-
-Plus de projets prochainement...
+D'autres projets arrivent prochainement...
 
 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&bg_color=090979&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF&border_color=00D9FF&hide_border=false&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&bg_color=090979&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF&border_color=00D9FF"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&bg_color=090979&title_color=00F7FF&text_color=FFFFFF&border_color=8A2BE2"/>
 
@@ -132,15 +94,13 @@ Plus de projets prochainement...
 
 🌠 MY PHILOSOPHY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=21&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=THINK+BIG.;CODE+SMART.;NEVER+STOP+LEARNING.;BUILD+THE+FUTURE.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=21&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=THINK+BIG.;CODE+SMART.;NEVER+STOP+LEARNING.;BUILD+THE+FUTURE.+%F0%9F%9A%80"/>
 
-<br/><br/>
+<br/>
 
 ⭐ Merci d'avoir visité mon profil GitHub !
 
 N'hésite pas à explorer mes repositories et à laisser une étoile si un projet te plaît !
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00F7FF,40:6A00F4,100:FF00FF&section=footer&animation=fadeIn" width="100%"/>
 

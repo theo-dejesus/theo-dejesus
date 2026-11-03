@@ -34,9 +34,11 @@ Langages de programmation
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css&theme=dark"/>
 
-Outils & environnement
+🛠️ Outils & environnement
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 

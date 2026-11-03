@@ -40,6 +40,10 @@ Langages de programmation
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CodeLite-IDE-00AEEF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 </div>
 
 🚀 Mes projets

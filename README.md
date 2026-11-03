@@ -1,3 +1,11 @@
+<h1 align="center">
+  👋 Hey, moi c'est TON NOM !
+</h1>
+
+<h3 align="center">
+  🚀 Développeur passionné | Tech Enthusiast | Creative Thinker
+</h3>
+
 👋 Salut, moi c'est Théo !
 🚀 Développeur passionné par la technologie et l'innovation
 
